@@ -1,3 +1,4 @@
+{"_id":"2ufMXSvryL6BMTZh","name":"Radjarat Baburien","type":"JournalEntry","parent":"qvpQbKzdkwjyIik9","sorting":"a","sort":0,"color":"#746c47","flags":{}}
 {"_id":"32GyOvvAcqQLGiJr","name":"Gjalskerland","type":"JournalEntry","parent":"kQ0oOFoEWd3jTW5W","sorting":"a","sort":0,"color":"#3e75b8","flags":{}}
 {"_id":"4toJ1qDMzyuJfZl5","name":"Bergkönigreiche der Zwerge","type":"JournalEntry","parent":"4zJmUVIhgLIjWRyW","sorting":"a","sort":100000,"color":"#341814","flags":{}}
 {"_id":"4zJmUVIhgLIjWRyW","name":"Mittelreich","type":"JournalEntry","parent":"bkmBf677ie0oKL7E","sorting":"a","sort":600000,"color":"#7f9ab7","flags":{}}
@@ -17,6 +18,7 @@
 {"_id":"HiphiIt0ugJZcB2W","name":"Dominium Donnerbach","type":"JournalEntry","parent":"VJdRkJ8kSHCR3mTB","sorting":"a","sort":0,"color":"#97bd8a","flags":{}}
 {"_id":"IW6KcTtaBtg7rBBD","name":"Die dampfenden Dschungel","type":"JournalEntry","parent":"bkmBf677ie0oKL7E","sorting":"a","sort":1700000,"color":"#79a744","flags":{}}
 {"_id":"LYzKAFCZkOcRWWGz","name":"Nivesenlande","type":"JournalEntry","parent":"slACiI7tQbsXxZcB","sorting":"a","sort":0,"color":"#ccccca","flags":{}}
+{"_id":"LcHwRNlFXK3S3S5Z","name":"Radjarat Zorghana","type":"JournalEntry","parent":"qvpQbKzdkwjyIik9","sorting":"a","sort":0,"color":"#746c47","flags":{}}
 {"_id":"MrjufFGJiUCxdIIY","name":"Herzogtum Nordmarken","type":"JournalEntry","parent":"4zJmUVIhgLIjWRyW","sorting":"a","sort":0,"color":"#7f9ab7","flags":{}}
 {"_id":"NKeCYM8KIOauMSFA","name":"Zyklopeninseln","type":"JournalEntry","parent":"jqw3DfHw8mI3Tprd","sorting":"a","sort":0,"color":"#9c68a6","flags":{}}
 {"_id":"OUrPncyU5FcY2WDC","name":"Imperium von Al'Anfa","type":"JournalEntry","parent":"GPyxSw7tmlwiDRO2","sorting":"a","sort":0,"color":"#414141","flags":{}}
@@ -31,6 +33,7 @@
 {"_id":"VJdRkJ8kSHCR3mTB","name":"Wälder des Nordens","type":"JournalEntry","parent":"bkmBf677ie0oKL7E","sorting":"a","sort":900000,"color":"#97bd8a","flags":{}}
 {"name":"Markgrafschaft Sonnenmark","type":"JournalEntry","parent":"4zJmUVIhgLIjWRyW","sorting":"a","sort":0,"color":"#7f9ab7","flags":{},"_id":"WMTd2MIkXBp0ITCN"}
 {"name":"Spezies","type":"JournalEntry","parent":"bkmBf677ie0oKL7E","sorting":"a","sort":0,"color":null,"flags":{},"_id":"WPrs6uqjUuVGg3A5"}
+{"_id":"YXFcoyxcOGvmFxyq","name":"Radjarat Palmyramis","type":"JournalEntry","parent":"qvpQbKzdkwjyIik9","sorting":"a","sort":0,"color":"#746c47","flags":{}}
 {"_id":"ZenzRVfJFZGTxAGV","name":"Bannland","type":"JournalEntry","parent":"sn3gErDx9zSYlMRr","sorting":"a","sort":0,"color":"#6ebe97","flags":{}}
 {"name":"Aventurien","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"arJHzEcfG0iQcZBy"}
 {"_id":"bbEb20YrKMVM8obD","name":"Markgrafschaft Perricum","type":"JournalEntry","parent":"4zJmUVIhgLIjWRyW","sorting":"a","sort":0,"color":"#7f9ab7","flags":{}}
@@ -58,5 +61,7 @@
 {"_id":"sMSOcbWo9dGfGlEc","name":"Altoum & Die Waldinseln","type":"JournalEntry","parent":"bkmBf677ie0oKL7E","sorting":"a","sort":1800000,"color":"#8dc2c8","flags":{}}
 {"_id":"slACiI7tQbsXxZcB","name":"Der Hohe Norden","type":"JournalEntry","parent":"bkmBf677ie0oKL7E","sorting":"a","sort":1000000,"color":"#ccccca","flags":{}}
 {"_id":"sn3gErDx9zSYlMRr","name":"Die Insel Maraskan","type":"JournalEntry","parent":"bkmBf677ie0oKL7E","sorting":"a","sort":1900000,"color":"#6ebe97","flags":{}}
+{"_id":"vYgouAevDxjTJdZU","name":"Radjarat Gorien","type":"JournalEntry","parent":"qvpQbKzdkwjyIik9","sorting":"a","sort":0,"color":"#746c47","flags":{}}
 {"_id":"vcZt0AFSKUiyUMl9","name":"Die Streitenden Königreiche","type":"JournalEntry","parent":"bkmBf677ie0oKL7E","sorting":"a","sort":300000,"color":"#265f3f","flags":{}}
+{"_id":"xMDjDKQCaEia3d7z","name":"Radjarat Elburien","type":"JournalEntry","parent":"qvpQbKzdkwjyIik9","sorting":"a","sort":0,"color":"#746c47","flags":{}}
 {"_id":"zHrPpJeImJxoiMVE","name":"Sultanat Gorien","type":"JournalEntry","parent":"knNfTFOXj4epUtkc","sorting":"a","sort":0,"color":"#9b81b1","flags":{}}
