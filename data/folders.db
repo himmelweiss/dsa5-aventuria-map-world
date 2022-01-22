@@ -1,17 +1,26 @@
+{"_id":"29TgsLBjz9hIhlju","name":"Jarltum Njurunstal","type":"JournalEntry","parent":"kQ0oOFoEWd3jTW5W","sorting":"a","sort":600000,"color":"#3e75b8","flags":{}}
+{"_id":"2s3CFoxEVZIeCHcP","name":"Jarltum Olport","type":"JournalEntry","parent":"kQ0oOFoEWd3jTW5W","sorting":"a","sort":800000,"color":"#3e75b8","flags":{}}
 {"_id":"2ufMXSvryL6BMTZh","name":"Radjarat Baburien","type":"JournalEntry","parent":"qvpQbKzdkwjyIik9","sorting":"a","sort":0,"color":"#746c47","flags":{}}
-{"_id":"32GyOvvAcqQLGiJr","name":"Gjalskerland","type":"JournalEntry","parent":"kQ0oOFoEWd3jTW5W","sorting":"a","sort":0,"color":"#3e75b8","flags":{}}
-{"_id":"4toJ1qDMzyuJfZl5","name":"Bergkönigreiche der Zwerge","type":"JournalEntry","parent":"4zJmUVIhgLIjWRyW","sorting":"a","sort":100000,"color":"#341814","flags":{}}
+{"_id":"32GyOvvAcqQLGiJr","name":"Gjalskerland","type":"JournalEntry","parent":"kQ0oOFoEWd3jTW5W","sorting":"a","sort":1200000,"color":"#3e75b8","flags":{}}
+{"_id":"3YIWwF6zfCZOXxcw","name":"Jarltum Gjalskerstrand","type":"JournalEntry","parent":"kQ0oOFoEWd3jTW5W","sorting":"a","sort":900000,"color":"#3e75b8","flags":{}}
+{"_id":"3ts0GnmYWPgoDq7u","name":"Jarltum Neues Land","type":"JournalEntry","parent":"kQ0oOFoEWd3jTW5W","sorting":"a","sort":100000,"color":"#3e75b8","flags":{}}
+{"_id":"4hjtWJlENt9XcPjD","name":"Bergkönigreich Angralosch","type":"JournalEntry","parent":"4toJ1qDMzyuJfZl5","sorting":"a","sort":0,"color":"#341814","flags":{}}
+{"_id":"4toJ1qDMzyuJfZl5","name":"Bergkönigreiche der Zwerge","type":"JournalEntry","parent":"bkmBf677ie0oKL7E","sorting":"a","sort":2000000,"color":"#341814","flags":{}}
 {"_id":"4zJmUVIhgLIjWRyW","name":"Mittelreich","type":"JournalEntry","parent":"bkmBf677ie0oKL7E","sorting":"a","sort":600000,"color":"#7f9ab7","flags":{}}
 {"_id":"53BBOAnz67hIcmu7","name":"Orkland","type":"JournalEntry","parent":"cZPPMCrtTOTKk6jD","sorting":"a","sort":0,"color":"#704c32","flags":{}}
 {"_id":"5GqfwGFtOpnBY9S7","name":"Herzogtum Paavi","type":"JournalEntry","parent":"slACiI7tQbsXxZcB","sorting":"a","sort":0,"color":"#ccccca","flags":{}}
 {"_id":"5lVRRdDgHwLD8FOw","name":"Chorhop","type":"JournalEntry","parent":"GPyxSw7tmlwiDRO2","sorting":"a","sort":0,"color":"#414141","flags":{}}
+{"_id":"6Of36GCfnvRrV90S","name":"Emirat Floeszern","type":"JournalEntry","parent":"qvpQbKzdkwjyIik9","sorting":"a","sort":0,"color":"#746c47","flags":{}}
 {"_id":"6ljlX3GQap9cU68E","name":"Horasreich","type":"JournalEntry","parent":"jqw3DfHw8mI3Tprd","sorting":"a","sort":0,"color":"#9c68a6","flags":{}}
 {"_id":"8Gt2LcxK9K1dDv6i","name":"Meeresteile","type":"JournalEntry","parent":"bkmBf677ie0oKL7E","sorting":"a","sort":0,"color":"#1d9ec9","flags":{}}
+{"name":"Sultanat Jindir","type":"JournalEntry","parent":"qvpQbKzdkwjyIik9","sorting":"a","sort":0,"color":"#746c47","flags":{},"_id":"8aN19YeiHzuHXCOu"}
+{"_id":"8gckHqowjVgNc8NM","name":"Jarltum Graue Berge","type":"JournalEntry","parent":"kQ0oOFoEWd3jTW5W","sorting":"a","sort":700000,"color":"#3e75b8","flags":{}}
 {"_id":"AgRD0vkji909WKta","name":"Zwölfgötter, Götter & Halbgötter","type":"JournalEntry","parent":"bkmBf677ie0oKL7E","sorting":"a","sort":0,"color":null,"flags":{}}
 {"name":"Herzogtum Weiden","type":"JournalEntry","parent":"4zJmUVIhgLIjWRyW","sorting":"a","sort":0,"color":"#7f9ab7","flags":{},"_id":"B4LHJbSavqRbfq6z"}
-{"_id":"CmL6rhMg4roPETVg","name":"Nivesenlande","type":"JournalEntry","parent":"VJdRkJ8kSHCR3mTB","sorting":"a","sort":0,"color":"#97bd8a","flags":{}}
+{"name":"Pirateninseln","type":"JournalEntry","parent":"sMSOcbWo9dGfGlEc","sorting":"a","sort":0,"color":"#8dc2c8","flags":{},"_id":"C2H1cSwJ57bYLYI7"}
 {"_id":"D5Tt6U4TP8H1uthn","name":"Schattenlande","type":"JournalEntry","parent":"bkmBf677ie0oKL7E","sorting":"a","sort":700000,"color":"#2a2927","flags":{}}
 {"_id":"DeT5JGBJ3sOZmxj9","name":"Großemirat Mengbilla","type":"JournalEntry","parent":"GPyxSw7tmlwiDRO2","sorting":"a","sort":0,"color":"#414141","flags":{}}
+{"_id":"EcFr3vgxyl3YmxwV","name":"Bergkönigreich Xorlosch","type":"JournalEntry","parent":"4toJ1qDMzyuJfZl5","sorting":"a","sort":0,"color":"#341814","flags":{}}
 {"_id":"EsUlAyhop8xe12OL","name":"Königreich Brabak","type":"JournalEntry","parent":"GPyxSw7tmlwiDRO2","sorting":"a","sort":0,"color":"#414141","flags":{}}
 {"_id":"GPyxSw7tmlwiDRO2","name":"Die Stadtstaaten Meridianas","type":"JournalEntry","parent":"bkmBf677ie0oKL7E","sorting":"a","sort":1600000,"color":"#414141","flags":{}}
 {"name":"Markgrafschaft Rabenmark","type":"JournalEntry","parent":"4zJmUVIhgLIjWRyW","sorting":"a","sort":0,"color":"#7f9ab7","flags":{},"_id":"GiUYBZxcdMECJRcP"}
@@ -20,6 +29,7 @@
 {"_id":"LYzKAFCZkOcRWWGz","name":"Nivesenlande","type":"JournalEntry","parent":"slACiI7tQbsXxZcB","sorting":"a","sort":0,"color":"#ccccca","flags":{}}
 {"_id":"LcHwRNlFXK3S3S5Z","name":"Radjarat Zorghana","type":"JournalEntry","parent":"qvpQbKzdkwjyIik9","sorting":"a","sort":0,"color":"#746c47","flags":{}}
 {"_id":"MrjufFGJiUCxdIIY","name":"Herzogtum Nordmarken","type":"JournalEntry","parent":"4zJmUVIhgLIjWRyW","sorting":"a","sort":0,"color":"#7f9ab7","flags":{}}
+{"_id":"N8GrW10J8DFehVZ6","name":"Bergkönigreich Tosch Mur","type":"JournalEntry","parent":"4toJ1qDMzyuJfZl5","sorting":"a","sort":0,"color":"#341814","flags":{}}
 {"_id":"NKeCYM8KIOauMSFA","name":"Zyklopeninseln","type":"JournalEntry","parent":"jqw3DfHw8mI3Tprd","sorting":"a","sort":0,"color":"#9c68a6","flags":{}}
 {"_id":"OUrPncyU5FcY2WDC","name":"Imperium von Al'Anfa","type":"JournalEntry","parent":"GPyxSw7tmlwiDRO2","sorting":"a","sort":0,"color":"#414141","flags":{}}
 {"_id":"OrNMsE7iHKX4kNaa","name":"Fürstentum Albernia","type":"JournalEntry","parent":"4zJmUVIhgLIjWRyW","sorting":"a","sort":0,"color":"#7f9ab7","flags":{}}
@@ -29,10 +39,14 @@
 {"_id":"SnKb4BNyH9WhywXW","name":"Kulturen","type":"JournalEntry","parent":"bkmBf677ie0oKL7E","sorting":"a","sort":1250000,"color":null,"flags":{}}
 {"_id":"T9DAw6SbUGCAyyIX","name":"Die Wüste Khôm & Kalifat","type":"JournalEntry","parent":"bkmBf677ie0oKL7E","sorting":"a","sort":1300000,"color":"#b69783","flags":{}}
 {"_id":"TI0iinc7UFMeRuE0","name":"Svelltland","type":"JournalEntry","parent":"cZPPMCrtTOTKk6jD","sorting":"a","sort":0,"color":"#704c32","flags":{}}
+{"_id":"TUc8IRDQptQkGFMs","name":"Jarltum Premer Halbinsel","type":"JournalEntry","parent":"kQ0oOFoEWd3jTW5W","sorting":"a","sort":300000,"color":"#3e75b8","flags":{}}
 {"name":"Markgrafschaft Windhag","type":"JournalEntry","parent":"4zJmUVIhgLIjWRyW","sorting":"a","sort":0,"color":"#7f9ab7","flags":{},"_id":"UVkQ2ddOmTWHdPXS"}
+{"_id":"V0cjxL7QftIiLuAX","name":"Bergkönigreich Isnatosch","type":"JournalEntry","parent":"4toJ1qDMzyuJfZl5","sorting":"a","sort":0,"color":"#341814","flags":{}}
 {"_id":"VJdRkJ8kSHCR3mTB","name":"Wälder des Nordens","type":"JournalEntry","parent":"bkmBf677ie0oKL7E","sorting":"a","sort":900000,"color":"#97bd8a","flags":{}}
+{"_id":"WF5xBeGIwa8hVh7F","name":"Waldinseln","type":"JournalEntry","parent":"sMSOcbWo9dGfGlEc","sorting":"a","sort":0,"color":"#8dc2c8","flags":{}}
 {"name":"Markgrafschaft Sonnenmark","type":"JournalEntry","parent":"4zJmUVIhgLIjWRyW","sorting":"a","sort":0,"color":"#7f9ab7","flags":{},"_id":"WMTd2MIkXBp0ITCN"}
 {"name":"Spezies","type":"JournalEntry","parent":"bkmBf677ie0oKL7E","sorting":"a","sort":0,"color":null,"flags":{},"_id":"WPrs6uqjUuVGg3A5"}
+{"_id":"XtDyzAmFPpE01cMb","name":"Jarltum Steineichenwald","type":"JournalEntry","parent":"kQ0oOFoEWd3jTW5W","sorting":"a","sort":1000000,"color":"#3e75b8","flags":{}}
 {"_id":"YXFcoyxcOGvmFxyq","name":"Radjarat Palmyramis","type":"JournalEntry","parent":"qvpQbKzdkwjyIik9","sorting":"a","sort":0,"color":"#746c47","flags":{}}
 {"_id":"ZenzRVfJFZGTxAGV","name":"Bannland","type":"JournalEntry","parent":"sn3gErDx9zSYlMRr","sorting":"a","sort":0,"color":"#6ebe97","flags":{}}
 {"name":"Aventurien","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"arJHzEcfG0iQcZBy"}
@@ -41,15 +55,16 @@
 {"_id":"cZPPMCrtTOTKk6jD","name":"Die Steppen der Orks & der ehemalige svelltsche Städtebund","type":"JournalEntry","parent":"bkmBf677ie0oKL7E","sorting":"a","sort":800000,"color":"#704c32","flags":{}}
 {"name":"Fürstentum Almada","type":"JournalEntry","parent":"4zJmUVIhgLIjWRyW","sorting":"a","sort":0,"color":"#7f9ab7","flags":{},"_id":"fgkZWBjRQvhBeHFL"}
 {"_id":"gTv6iyHMteZftQos","name":"Die Echsensümpfe","type":"JournalEntry","parent":"bkmBf677ie0oKL7E","sorting":"a","sort":1500000,"color":"#394c2e","flags":{}}
+{"_id":"hn2xDbGWUFsty06r","name":"Bergkönigreich Angoramtosch","type":"JournalEntry","parent":"4toJ1qDMzyuJfZl5","sorting":"a","sort":0,"color":"#341814","flags":{}}
 {"_id":"hrluW8eKYWUjPTYS","name":"Fürstkomturei","type":"JournalEntry","parent":"sn3gErDx9zSYlMRr","sorting":"a","sort":0,"color":"#6ebe97","flags":{}}
+{"_id":"j2Y8BKEAzXwUX5Rz","name":"Bergkönigreich Koschim","type":"JournalEntry","parent":"4toJ1qDMzyuJfZl5","sorting":"a","sort":0,"color":"#341814","flags":{}}
 {"name":"Markgrafschaft Warunk","type":"JournalEntry","parent":"4zJmUVIhgLIjWRyW","sorting":"a","sort":0,"color":"#7f9ab7","flags":{},"_id":"j3Fie69e7blGAChQ"}
 {"_id":"jBhMxXsrwTKzFMYB","name":"Andergast","type":"JournalEntry","parent":"vcZt0AFSKUiyUMl9","sorting":"a","sort":0,"color":"#265f3f","flags":{}}
 {"_id":"jqw3DfHw8mI3Tprd","name":"Das Horasreich","type":"JournalEntry","parent":"bkmBf677ie0oKL7E","sorting":"a","sort":1400000,"color":"#9c68a6","flags":{}}
 {"_id":"kPabQm9ZGoqSQStW","name":"Kirchen & Kulte","type":"JournalEntry","parent":"bkmBf677ie0oKL7E","sorting":"a","sort":850000,"color":null,"flags":{}}
 {"_id":"kQ0oOFoEWd3jTW5W","name":"Thorwal & Gjalskerland","type":"JournalEntry","parent":"bkmBf677ie0oKL7E","sorting":"a","sort":200000,"color":"#3e75b8","flags":{}}
 {"_id":"knNfTFOXj4epUtkc","name":"Die Lande der Tulamiden","type":"JournalEntry","parent":"bkmBf677ie0oKL7E","sorting":"a","sort":1200000,"color":"#9b81b1","flags":{}}
-{"_id":"labK8wKp8oZ6ibdX","name":"Freie Städte des Nordens & Elfenlande","type":"JournalEntry","parent":"VJdRkJ8kSHCR3mTB","sorting":"a","sort":0,"color":"#97bd8a","flags":{}}
-{"_id":"lhJl9iHZcKbRUxYu","name":"Thorwal","type":"JournalEntry","parent":"kQ0oOFoEWd3jTW5W","sorting":"a","sort":0,"color":"#3e75b8","flags":{}}
+{"_id":"labK8wKp8oZ6ibdX","name":"Elfenlande","type":"JournalEntry","parent":"VJdRkJ8kSHCR3mTB","sorting":"a","sort":0,"color":"#97bd8a","flags":{}}
 {"_id":"liTJMNyYdmyPqe9p","name":"Fürstentum Kosch","type":"JournalEntry","parent":"4zJmUVIhgLIjWRyW","sorting":"a","sort":0,"color":"#7f9ab7","flags":{}}
 {"name":"Herzogtum Tobrien","type":"JournalEntry","parent":"4zJmUVIhgLIjWRyW","sorting":"a","sort":0,"color":"#7f9ab7","flags":{},"_id":"o9W3SrJI35O0QZvh"}
 {"_id":"oSGNUry4HDkte9dp","name":"Golf von Riva","type":"JournalEntry","parent":"cZPPMCrtTOTKk6jD","sorting":"a","sort":0,"color":"#704c32","flags":{}}
@@ -61,7 +76,10 @@
 {"_id":"sMSOcbWo9dGfGlEc","name":"Altoum & Die Waldinseln","type":"JournalEntry","parent":"bkmBf677ie0oKL7E","sorting":"a","sort":1800000,"color":"#8dc2c8","flags":{}}
 {"_id":"slACiI7tQbsXxZcB","name":"Der Hohe Norden","type":"JournalEntry","parent":"bkmBf677ie0oKL7E","sorting":"a","sort":1000000,"color":"#ccccca","flags":{}}
 {"_id":"sn3gErDx9zSYlMRr","name":"Die Insel Maraskan","type":"JournalEntry","parent":"bkmBf677ie0oKL7E","sorting":"a","sort":1900000,"color":"#6ebe97","flags":{}}
+{"_id":"t74CWkubBUcaWNNl","name":"Jarltum Nordhjaldor","type":"JournalEntry","parent":"kQ0oOFoEWd3jTW5W","sorting":"a","sort":400000,"color":"#3e75b8","flags":{}}
 {"_id":"vYgouAevDxjTJdZU","name":"Radjarat Gorien","type":"JournalEntry","parent":"qvpQbKzdkwjyIik9","sorting":"a","sort":0,"color":"#746c47","flags":{}}
 {"_id":"vcZt0AFSKUiyUMl9","name":"Die Streitenden Königreiche","type":"JournalEntry","parent":"bkmBf677ie0oKL7E","sorting":"a","sort":300000,"color":"#265f3f","flags":{}}
 {"_id":"xMDjDKQCaEia3d7z","name":"Radjarat Elburien","type":"JournalEntry","parent":"qvpQbKzdkwjyIik9","sorting":"a","sort":0,"color":"#746c47","flags":{}}
+{"_id":"xMSXUSMtjpFmi3qC","name":"Jarltum Olportsteine","type":"JournalEntry","parent":"kQ0oOFoEWd3jTW5W","sorting":"a","sort":500000,"color":"#3e75b8","flags":{}}
+{"_id":"yUIQmY5Rgri3cUIO","name":"Jarltum Küstenland","type":"JournalEntry","parent":"kQ0oOFoEWd3jTW5W","sorting":"a","sort":200000,"color":"#3e75b8","flags":{}}
 {"_id":"zHrPpJeImJxoiMVE","name":"Sultanat Gorien","type":"JournalEntry","parent":"knNfTFOXj4epUtkc","sorting":"a","sort":0,"color":"#9b81b1","flags":{}}
