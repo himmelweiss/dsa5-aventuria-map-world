@@ -1,10 +1,10 @@
 {
-  "name": "aventurien-dsa5-module-dev",
+  "id": "aventurien-dsa5-module-dev",
   "title": "DSA5 MODULE DEV",
   "description": "",
   "authors": [],
   "flags": {},
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": [],
   "esmodules": [],
   "styles": [],
@@ -14,8 +14,12 @@
   "dependencies": [],
   "socket": false,
   "protected": false,
-  "coreVersion": "9.242",
+  "coreVersion": "11.315",
+  "compatibility": {
+    "verified": "11.315",
+    "minimum": "11"
+  },
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "3.1.4"
+  "systemVersion": "5.1.5"
 }
