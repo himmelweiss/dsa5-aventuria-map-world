@@ -1,0 +1,15 @@
+2024/11/06-09:18:51.837 3ccc Recovering log #21
+2024/11/06-09:18:51.837 3ccc Level-0 table #23: started
+2024/11/06-09:18:51.844 3ccc Level-0 table #23: 1611 bytes OK
+2024/11/06-09:18:51.849 3ccc Delete type=0 #21
+2024/11/06-09:18:51.849 3ccc Delete type=3 #20
+2024/11/06-09:23:25.287 21f4 Level-0 table #26: started
+2024/11/06-09:23:25.287 21f4 Level-0 table #26: 0 bytes OK
+2024/11/06-09:23:25.289 21f4 Delete type=0 #24
+2024/11/06-09:23:25.291 21f4 Manual compaction at level-0 from '!messages!KWtLCfFdOUCVGs14' @ 72057594037927935 : 1 .. '!messages!KWtLCfFdOUCVGs14' @ 0 : 0; will stop at '!messages!KWtLCfFdOUCVGs14' @ 5 : 1
+2024/11/06-09:23:25.291 21f4 Compacting 1@0 + 0@1 files
+2024/11/06-09:23:25.295 21f4 Generated table #27@0: 1 keys, 1611 bytes
+2024/11/06-09:23:25.296 21f4 Compacted 1@0 + 0@1 files => 1611 bytes
+2024/11/06-09:23:25.297 21f4 compacted to: files[ 0 1 2 0 0 0 0 ]
+2024/11/06-09:23:25.297 21f4 Delete type=2 #23
+2024/11/06-09:23:25.302 21f4 Manual compaction at level-0 from '!messages!KWtLCfFdOUCVGs14' @ 5 : 1 .. '!messages!KWtLCfFdOUCVGs14' @ 0 : 0; will stop at (end)

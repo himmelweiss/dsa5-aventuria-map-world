@@ -1,0 +1,8 @@
+2024/11/06-09:18:51.975 3ccc Recovering log #22
+2024/11/06-09:18:51.980 3ccc Delete type=0 #22
+2024/11/06-09:18:51.980 3ccc Delete type=3 #21
+2024/11/06-09:23:25.325 21f4 Level-0 table #26: started
+2024/11/06-09:23:25.325 21f4 Level-0 table #26: 0 bytes OK
+2024/11/06-09:23:25.328 21f4 Delete type=0 #24
+2024/11/06-09:23:25.331 21f4 Manual compaction at level-0 from '!users!Fwi2DQo8OUmWii5Y' @ 72057594037927935 : 1 .. '!users!gM9Uw5vH4TNz1Xj8' @ 0 : 0; will stop at (end)
+2024/11/06-09:23:25.338 21f4 Manual compaction at level-1 from '!users!Fwi2DQo8OUmWii5Y' @ 72057594037927935 : 1 .. '!users!gM9Uw5vH4TNz1Xj8' @ 0 : 0; will stop at (end)

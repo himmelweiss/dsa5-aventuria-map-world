@@ -1,25 +1,16 @@
 {
-  "id": "aventurien-dsa5-module-dev",
   "title": "DSA5 MODULE DEV",
-  "description": "",
-  "authors": [],
-  "flags": {},
-  "version": "1.0.1",
-  "scripts": [],
-  "esmodules": [],
-  "styles": [],
-  "languages": [],
-  "packs": [],
+  "version": "1.0.0",
   "system": "dsa5",
-  "dependencies": [],
-  "socket": false,
-  "protected": false,
-  "coreVersion": "11.315",
-  "compatibility": {
-    "verified": "11.315",
-    "minimum": "11"
-  },
+  "coreVersion": "12.331",
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "5.1.5"
+  "systemVersion": "6.1.5",
+  "id": "aventurien-dsa5-module-dev",
+  "compatibility": {
+    "verified": "12.331",
+    "minimum": "12"
+  },
+  "lastPlayed": "Wed Nov 06 2024 09:23:25 GMT+0100 (Mitteleuropäische Normalzeit)",
+  "playtime": 740
 }
